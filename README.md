@@ -1,4 +1,4 @@
-** Spotify Popularity Analysis: Machine Learning & Predictive Modeling ** 
+### Spotify Popularity Analysis: Machine Learning & Predictive Modeling  
 
 This project leverages machine learning to analyze and predict song popularity on Spotify using audio features like energy, danceability, and loudness. It implements a comprehensive suite of algorithms to uncover patterns and estimate track success.
 
